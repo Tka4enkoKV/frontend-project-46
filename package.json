@@ -1,0 +1,28 @@
+{
+  "name": "gendiff",
+  "version": "1.0.0",
+  "description": "Compares two configuration files and shows a difference.",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tka4enkoKV/frontend-project-46.git"
+  },
+  "keywords": [
+    "gendiff"
+  ],
+  "author": "Tkachenko Konstantin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tka4enkoKV/frontend-project-46/issues"
+  },
+  "homepage": "https://github.com/Tka4enkoKV/frontend-project-46#readme",
+  "devDependencies": {
+    "eslint": "^8.47.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1"
+  }
+}
