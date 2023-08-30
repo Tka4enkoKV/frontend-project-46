@@ -24,11 +24,12 @@
   },
   "homepage": "https://github.com/Tka4enkoKV/frontend-project-46#readme",
   "devDependencies": {
-    "eslint": "^8.47.0",
+    "eslint": "^8.48.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.28.1"
   },
   "dependencies": {
-    "commander": "^11.0.0"
+    "commander": "^11.0.0",
+    "lodash": "^4.17.21"
   }
 }
